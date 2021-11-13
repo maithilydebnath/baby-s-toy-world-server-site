@@ -1,6 +1,7 @@
 # Baby's Toy World
 
-Please click on the link to check our website and explore with us -
+Please click on the link to check our website and explore with us - https://niche-baby-toy-world.web.app
+server side Heroku Link - https://mysterious-gorge-90895.herokuapp.com/
 
 ## Description:
 Babies and children learn through play, so choosing age-appropriate toys is one way you can encourage their development. You’ll love watching them explore the world around them and expand their imagination using their toys as props to act out whatever is on their mind. It’s also a great opportunity to bond with your little one, giving you a glimpse into what their busy brain is thinking about
